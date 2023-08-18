@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-study-Notion/static/css/main.7a0c161a.css",
+    "main.js": "/React-study-Notion/static/js/main.30561120.js",
+    "static/js/496.0320d045.chunk.js": "/React-study-Notion/static/js/496.0320d045.chunk.js",
+    "static/media/signup.png": "/React-study-Notion/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/React-study-Notion/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/React-study-Notion/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/React-study-Notion/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/React-study-Notion/index.html",
+    "main.7a0c161a.css.map": "/React-study-Notion/static/css/main.7a0c161a.css.map",
+    "main.30561120.js.map": "/React-study-Notion/static/js/main.30561120.js.map",
+    "496.0320d045.chunk.js.map": "/React-study-Notion/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a0c161a.css",
+    "static/js/main.30561120.js"
+  ]
+}
